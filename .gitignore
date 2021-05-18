@@ -1,0 +1,13 @@
+synthetic/trained_gan
+airfoil/trained_gan
+airfoil/data/trained_gan
+airfoil/data/*.npy
+airfoil/surrogate/trained_surrogate
+airfoil/tmp
+airfoil/ffd
+airfoil/svd
+airfoil/perf
+*/*.npy
+*.pyc
+__pycache__
+.idea
