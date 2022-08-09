@@ -10,14 +10,14 @@ This code is licensed under the MIT license. Feel free to use all or portions fo
    Chen, W., & Ahmed, F. (2021). MO-PaDGAN: Reparameterizing Engineering Designs for augmented multi-objective optimization. _Applied Soft Computing_, 113, 107909.
 
 	@article{chen2021mo,
-     title={MO-PaDGAN: Reparameterizing Engineering Designs for augmented multi-objective optimization},
-     author={Chen, Wei and Ahmed, Faez},
-     journal={Applied Soft Computing},
-     volume={113},
-     pages={107909},
-     year={2021},
-     publisher={Elsevier}
-   }
+	     title={MO-PaDGAN: Reparameterizing Engineering Designs for augmented multi-objective optimization},
+	     author={Chen, Wei and Ahmed, Faez},
+	     journal={Applied Soft Computing},
+	     volume={113},
+	     pages={107909},
+	     year={2021},
+	     publisher={Elsevier}
+	   }
 
 ## Required packages
 
