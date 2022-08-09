@@ -1,8 +1,23 @@
 # MO-PaDGAN for Design Reparameterization and Optimization
 
-Experiment code associated with the paper: MO-PaDGAN: Reparameterizing Engineering Designs for Augmented Multi-objective Optimization
+Experiment code associated with our paper on _Applied Soft Computing_: [MO-PaDGAN: Reparameterizing Engineering Designs for Augmented Multi-objective Optimization](https://www.sciencedirect.com/science/article/pii/S1568494621008310?casa_token=sSPX_i-oQsAAAAAA:ZiYmTvp4YjpRMm1PTbTGlBZ6UwizMdUf5hB37TWyUTItQlnnKr-dENYvdkVBslrUh7tBmHxrnS8).
 
 ![Alt text](/architecture.svg)
+
+## License
+This code is licensed under the MIT license. Feel free to use all or portions for your research or related projects so long as you provide the following citation information:
+
+   Chen, W., & Ahmed, F. (2021). MO-PaDGAN: Reparameterizing Engineering Designs for augmented multi-objective optimization. _Applied Soft Computing_, 113, 107909.
+
+	@article{chen2021mo,
+     title={MO-PaDGAN: Reparameterizing Engineering Designs for augmented multi-objective optimization},
+     author={Chen, Wei and Ahmed, Faez},
+     journal={Applied Soft Computing},
+     volume={113},
+     pages={107909},
+     year={2021},
+     publisher={Elsevier}
+   }
 
 ## Required packages
 
