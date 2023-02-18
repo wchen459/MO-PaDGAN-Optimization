@@ -158,7 +158,7 @@ This code is licensed under the MIT license. Feel free to use all or portions fo
    Train MO-PaDGAN:
 
    ```bash
-   python run_experiment.py train
+   python train.py train
    ```
 
    positional arguments:
